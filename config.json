@@ -1,0 +1,37 @@
+{
+    "prefix": "!",
+    "token": "ODQwODAzOTc5OTIzMjkyMjEx.YJdhug.l5QZBKwjuRdUX9cSCsVpsRueFG8",
+  
+    "ipservidor": "northbrrp.ddns.net",
+    "portaservidor": "30120",
+    "ipparausuarios": "northbrrp.ddns.net",
+
+    "conexaodb" : "localhost",
+    "userdb" : "root",  
+    "senhadb" : "",
+    "db" : "vrp",
+    "portasql": "",
+  
+    "iddono": "185052316741664768",
+
+    "boasvindas": "Atenciosamente North BR RP",
+
+    "visitanterole": "Atenciosamente North BR RP",
+
+    "imagemservidor": "https://cdn.discordapp.com/attachments/719113474000814090/840799479623843840/desfoqueatras.png",
+
+    "whitelistcargo": "828917616223191070",
+    
+    "canalwl": "840362229005287444",
+
+    "idservidor": "703183366735790161",
+
+    "idcategoriawl": "833775541815345182",
+
+    "resultadowlstaff": "840690902292758578",
+    "resultadowlacertos": "833775169255768114",
+    "resultadowl_errados": "833775130151747674",
+  
+    "margemdeacertos": "7"
+  
+}
